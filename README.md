@@ -1,4 +1,4 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">Proyecto MERN 🚀</h1>
 
 ![Demo App](/frontend/public/mockup.png)
 
