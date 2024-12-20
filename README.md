@@ -1,4 +1,6 @@
-# Proyecto MERN 🚀
+<h1 align="center">MERN Crash Course 🚀</h1>
+
+![Demo App](/frontend/public/mockup.png)
 
 Este es un proyecto basado en la arquitectura MERN (MongoDB, Express, React, Node.js).
 
